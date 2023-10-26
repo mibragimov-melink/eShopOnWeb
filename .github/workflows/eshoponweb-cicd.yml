@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: fab23703-24c2-4f1e-b397-2c55be7e4016
-  WEBAPP-NAME: az400-Letsgooo
+  WEBAPP-NAME: az400-Letsgoooo
 
 jobs:
   #Build, test and publish .net web project in repository
